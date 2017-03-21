@@ -27,3 +27,5 @@ SunilSpaceo, sunil@spaceotechnologies.com
 ## License
 
 SKTaskManager is available under the MIT license. See the LICENSE file for more info.
+
+## For any query or help, contact sunil@spaceotechnologies.com or visit at [space-O technologies.](https://www.spaceotechnologies.com)
